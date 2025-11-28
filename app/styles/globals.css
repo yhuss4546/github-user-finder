@@ -40,6 +40,7 @@ button{
     border: none;
     padding: 0.2em 0.5em;
     font-size: var(--med-font);
+    font-weight: 600;
 }
 a{
     color: inherit;
